@@ -29,7 +29,7 @@ SELECT * FROM sakila.actor;
 ```
 ## Objective
 
-  Write down 8 most important questions for a DVD Store and create a presentation to answer these 8 questions.
+To analyze and study revenue patterns in the Sakila database to gain a deeper understanding of the financial performance of a simulated DVD rental store
 
 ## Month/year
 
